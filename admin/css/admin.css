@@ -77,3 +77,66 @@
     background-color: #ff4757;
     color: white;
 }
+
+
+/* CSS for Manage Admin  manage-admin.php */
+
+.tbl-full{
+    width: 100%;
+}
+
+
+table tr th{
+    border-bottom: 1px solid black ;
+    padding: 1%;
+    text-align: left;
+}
+
+
+table tr td{
+    padding: 1%;
+}
+
+
+/* CSS for Buttons*/
+
+.btn-primary{
+   background-color: #1e90ff;
+   padding: 1%;  
+   text-decoration: none;
+   color: #fff;
+   font-weight: bold;
+   cursor: pointer;
+}
+
+.btn-primary:hover{
+    background-color: #3742fa ;
+}
+
+
+.btn-secondary{
+   background-color: black;
+   padding: 1%;  
+   text-decoration: none;
+   color: #fff;
+   font-weight: bold;
+   cursor: pointer;
+}
+
+.btn-secondary:hover{
+    background-color: #2ed573  ;
+}
+
+
+.btn-danger{
+   background-color: #ff6b81;
+   padding: 1%;  
+   text-decoration: none;
+   color: #fff;
+   font-weight: bold;
+   cursor: pointer;
+}
+
+.btn-danger:hover{
+    background-color: #ff4757;
+}
