@@ -85,6 +85,13 @@
     width: 100%;
 }
 
+.tbl-30{
+    width: 30%;
+}
+
+.tbl-70{
+    width: 70%;
+}
 
 table tr th{
     border-bottom: 1px solid black ;
@@ -140,3 +147,23 @@ table tr td{
 .btn-danger:hover{
     background-color: #ff4757;
 }
+
+.success{
+    color: #2ed573;
+}
+
+.error{
+    color:#ff4757;
+}
+
+
+/*CSS for Login */
+
+.login{
+    width: 30%;
+    border: solid 1px grey;
+    margin: 10% auto;
+    padding: 2%;
+    
+}
+
